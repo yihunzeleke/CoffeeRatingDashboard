@@ -1,0 +1,12 @@
+name: coffeeRatingApp
+title: coffeeRatingApp
+username:
+account: yihunzeleke
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3234705
+bundleId: 3861832
+url: https://yihunzeleke.shinyapps.io/coffeeRatingApp/
+when: 1605412120.24926
+asMultiple: FALSE
+asStatic: FALSE
